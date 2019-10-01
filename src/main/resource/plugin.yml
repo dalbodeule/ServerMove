@@ -1,0 +1,16 @@
+name: ServerMove
+version: @version@
+main: space.mori.servermove.ServerMove
+depend:
+authors:
+  - dalbodeule
+commands:
+  test:
+  testmove:
+permissions:
+  servermove.test:
+    default: true
+  servermove.testmove:
+    default: true
+  servermove.op:
+    default: op
