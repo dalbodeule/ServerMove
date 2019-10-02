@@ -1,6 +1,6 @@
 name: ServerMove
 version: @version@
-main: space.mori.servermove.ServerMove
+main: space.mori.servermove.space.mori.servermove.bungee.ServerMove
 depend:
 authors:
   - dalbodeule
